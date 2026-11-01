@@ -46,7 +46,7 @@ include(FetchContent)
 FetchContent_Declare(
     Duet
     GIT_REPOSITORY https://github.com/DanielArndt0/Duet.git
-    GIT_TAG 1.0.0
+    GIT_TAG v1.0.0
 )
 
 FetchContent_MakeAvailable(Duet)
